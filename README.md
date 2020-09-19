@@ -1,2 +1,3 @@
 # test_repo
-This repo is a test for 1.2 activity 
+
+This was a demo used to test pushing to GitHub.
